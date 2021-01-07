@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**eli-lam/eli-lam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Elizabeth, a third year Computer Science student at Concordia University.
+I like coding in C++ and C# but I'm always open to learning. Other interests include ✨ cats ✨, drawing and playing video games.
 
-Here are some ideas to get you started:
+#### I'm looking for a full-time position starting May/June 20021!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 Check out these links!
+- [Website](https://eli-lam.github.io/)
+- [LinkedIn](https://linkedin.com/in/elilam)
+- [itch.io](https://nammmae.itch.io/)
+
+#### 🔭 I’m currently working on
+- Space Concordia's [SC-ODIN](http://www.spaceconcordia.ca/en/division/spacecraft/) as software co-lead
+- Ubisoft's 2021 Game Lab Competition
+- Improving [Costume Curse](https://nammmae.itch.io/costume-curse) for a full release!

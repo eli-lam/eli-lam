@@ -3,7 +3,7 @@
 I'm Elizabeth, a third year Computer Science student at Concordia University.
 I like coding in C++ and C# but I'm always open to learning. Other interests include ✨ cats ✨, drawing and playing video games.
 
-#### I'm looking for a full-time position starting May/June 20021!
+#### I'm looking for a full-time position starting May/June 2021!
 
 #### 📫 Check out these links!
 - [Website](https://eli-lam.github.io/)

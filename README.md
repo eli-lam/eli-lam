@@ -12,4 +12,4 @@ I like coding in C++ and C# but I'm always open to learning. Other interests inc
 
 #### 🔭 I’m currently working on
 - Ubisoft's 2021 Game Lab Competition
-- Improving [Costume Curse](https://nammmae.itch.io/costume-curse) for a full release!
+- Improving [Costume Curse](https://thegamedjs.itch.io/costume-curse) for a full release!

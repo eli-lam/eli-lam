@@ -11,6 +11,5 @@ I like coding in C++ and C# but I'm always open to learning. Other interests inc
 - [itch.io](https://nammmae.itch.io/)
 
 #### 🔭 I’m currently working on
-- Space Concordia's [SC-ODIN](http://www.spaceconcordia.ca/en/division/spacecraft/) as software co-lead
 - Ubisoft's 2021 Game Lab Competition
 - Improving [Costume Curse](https://nammmae.itch.io/costume-curse) for a full release!
